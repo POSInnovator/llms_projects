@@ -40,7 +40,7 @@ def create_vector_store():
     text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
     split_docs = text_splitter.split_documents(docs)
 
-     # Display information about the split documents
+    # Display information about the split documents
     print("\n--- Document Chunks Information ---")
     print(f"Number of document chunks: {len(split_docs)}")
     print(f"Sample chunk:\n{split_docs[0].page_content[:100]}\n")
