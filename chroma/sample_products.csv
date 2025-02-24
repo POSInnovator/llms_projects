@@ -1,0 +1,11 @@
+product_id,title,desc,meta_data
+P001,Apple iPhone 15,Latest iPhone with A16 Bionic chip and improved cameras,"{""brand"": ""Apple"", ""category"": ""Smartphone"", ""price"": ""999""}"
+P002,Samsung Galaxy S23,Flagship Android phone with Snapdragon 8 Gen 2,"{""brand"": ""Samsung"", ""category"": ""Smartphone"", ""price"": ""899""}"
+P003,Sony WH-1000XM5,Noise-canceling wireless headphones,"{""brand"": ""Sony"", ""category"": ""Headphones"", ""price"": ""399""}"
+P004,Dell XPS 15,High-performance laptop with Intel Core i9,"{""brand"": ""Dell"", ""category"": ""Laptop"", ""price"": ""1799""}"
+P005,Logitech MX Master 3,Ergonomic wireless mouse for productivity,"{""brand"": ""Logitech"", ""category"": ""Accessories"", ""price"": ""99""}"
+P006,Apple Watch Series 9,Smartwatch with health tracking and ECG,"{""brand"": ""Apple"", ""category"": ""Wearables"", ""price"": ""499""}"
+P007,Amazon Echo Dot,Smart speaker with Alexa voice assistant,"{""brand"": ""Amazon"", ""category"": ""Smart Home"", ""price"": ""49""}"
+P008,Bose SoundLink Revolve,Portable Bluetooth speaker with 360° sound,"{""brand"": ""Bose"", ""category"": ""Audio"", ""price"": ""199""}"
+P009,Canon EOS R5,Professional mirrorless camera with 45MP sensor,"{""brand"": ""Canon"", ""category"": ""Cameras"", ""price"": ""3499""}"
+P010,Samsung 4K Smart TV,65-inch UHD TV with HDR and smart features,"{""brand"": ""Samsung"", ""category"": ""TV"", ""price"": ""1199""}"
